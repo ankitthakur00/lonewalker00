@@ -1,24 +1,11 @@
 ### Hi there 👋
 
-I am MCA second-year student at Maulana Azad National institute of technology. I claims myself as hardworking, quick learning ability, highly motivated in building practical skills and keen to develop understanding in IT field. Browse my site to see all that I have to offer.
+I am Ankit Kumar MCA student at NIT Surathkal. I claims myself as hardworking, quick learning ability, highly motivated in building practical skills and keen to develop understanding in IT field. Browse my site to see all that I have to offer.
 
-Some of My Key skills : C , C++ , Java ,Bootstrap, Mysql, Oracle, Ajax, Jquery, Javascript, HTML, CSS, PHP, Data Structure
-
-seedling I’m currently learning Machine Learning
-mailbox How to reach me: https://www.linkedin.com/in/vishiii09/
-
-<!--
-**lonewalker00/lonewalker00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
+Some of My Key skills : C , C++ ,Data Structure & Algorithms,Java , Python,Mysql, HTML, CSS, PHP.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning : Machine Learning
+- 💬 Ask me about : Data Structure & Algorithms
+- 📫 How to reach me : https://www.linkedin.com/in/ankitthakur00/ 
+- ⚡ Fun fact : Computers are able to see, hear and learn. 
