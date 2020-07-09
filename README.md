@@ -4,7 +4,6 @@ I am Ankit Kumar MCA student at NIT Surathkal. I claims myself as hardworking, q
 
 Some of My Key skills : C , C++ ,Data Structure & Algorithms,Java , Python,Mysql, HTML, CSS, PHP.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning : Machine Learning
 - 💬 Ask me about : Data Structure & Algorithms
 - 📫 How to reach me : https://www.linkedin.com/in/ankitthakur00/ 
